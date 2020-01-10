@@ -2,6 +2,8 @@
 ##This page suggest movies for who don't know what they want to see
 If you can't download or see my code you can read here
 ##Code page psp.html ( this is Homepage)
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -16,8 +18,7 @@ If you can't download or see my code you can read here
   <main>  
 	<div class="container-fluid">    
     <div class="row ">
-      <div class=" col-md-2 col-sm-4 my-menu">
-        
+      <div class=" col-md-2 col-sm-4 my-menu">        
         <!-- this class for logo -->
         <div class="logo"><h1> Logo</h1></div>        
          <!-- this class for menu 1 -->
@@ -50,7 +51,6 @@ If you can't download or see my code you can read here
         <div class="menu3">
            <hr  width="100%" size="10px" align="center" color="orange" />  
           <a href=""><img id="imgUser" src="user.jpg" width="30px" height="30px" alt=""> Your Account </a>
-
         </div>
       </div>
       <div class="col-md-10 col-sm-8">
@@ -76,8 +76,7 @@ If you can't download or see my code you can read here
                       <iframe width="250" height="200" src="https://www.youtube.com/embed/NrQT3Wlzc3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                  
                     </div>
                   </div>
-                </div>
-              
+                </div>              
               <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="sr-only">Previous</span>
@@ -85,8 +84,7 @@ If you can't download or see my code you can read here
               <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
-              </a>
-              
+              </a>              
             </div>
           </div>                     
         </div> 
@@ -110,8 +108,7 @@ If you can't download or see my code you can read here
   <main>  
 	<div class="container-fluid">    
     <div class="row ">
-      <div class=" col-md-2 col-sm-4 my-menu">
-        
+      <div class=" col-md-2 col-sm-4 my-menu">        
         <!-- this class for logo -->
         <div class="logo"><h1> LoGo</h1></div>        
          <!-- this class for menu 1 -->
@@ -150,8 +147,7 @@ If you can't download or see my code you can read here
           <div class="container-fluid my-test">       
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner ">
-                <div class="menu5">
-                  
+                <div class="menu5">                  
                   <div class="carousel-item active">                  
                     <iframe width="300" height="200" src="https://www.youtube.com/embed/PrX1JJ5dduA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <iframe width="300" height="200" src="https://www.youtube.com/embed/2Mi0CFBghiw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -179,8 +175,7 @@ If you can't download or see my code you can read here
               </a>
             </div>
           </div> 
-          <div class="container-fluid my-test">
-            
+          <div class="container-fluid my-test">            
             <hr  width="1000px" size="5px" align="center" color="orange" />
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
               <div class="carousel-inner ">
