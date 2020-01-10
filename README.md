@@ -1,6 +1,8 @@
 # Movie-Suggested-Website
 ## This page suggest movies for who don't know what they want to see
-### Home page
+### Home page 
+
+``` sh
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,8 +11,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-  
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>  
 </head>
 <body>
   <main>  
@@ -50,7 +51,6 @@
         <div class="menu3">
            <hr  width="100%" size="10px" align="center" color="orange" />  
           <a href=""><img id="imgUser" src="user.jpg" width="30px" height="30px" alt=""> Your Account </a>
-
         </div>
       </div>
       <div class="col-md-10 col-sm-10 col-lg-8">
@@ -76,8 +76,7 @@
                       <iframe width="250" height="200" src="https://www.youtube.com/embed/NrQT3Wlzc3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                  
                     </div>
                   </div>
-                </div>
-              
+                </div>              
               <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="sr-only">Previous</span>
@@ -85,14 +84,14 @@
               <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
-              </a>
-              
+              </a>              
             </div>
           </div>                     
         </div> 
       </div>            
-    </div>
+    </div>   
 </main>
 </body>
-</html>
+</html> 
+```
 # thank you for your time 
